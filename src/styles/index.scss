@@ -1,0 +1,13 @@
+@import './colors.scss';
+@import './fonts.scss';
+@import './reset.scss';
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'kumbh_sans_medium', sans-serif;
+  font-size: 18px;
+  color: $dark-grayish-blue;
+  background-color: $dark-cyan;
+}

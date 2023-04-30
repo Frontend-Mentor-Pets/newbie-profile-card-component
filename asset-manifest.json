@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/newbie-profile-card-component/static/css/main.303482c2.css",
+    "main.js": "/newbie-profile-card-component/static/js/main.8b7d0580.js",
+    "static/media/kumbhsans-bold.ttf": "/newbie-profile-card-component/static/media/kumbhsans-bold.bbd6397b522ed02dc229.ttf",
+    "static/media/kumbhsans-medium.ttf": "/newbie-profile-card-component/static/media/kumbhsans-medium.9ddd873179b9f2300033.ttf",
+    "static/media/kumbhsans-bold.woff": "/newbie-profile-card-component/static/media/kumbhsans-bold.8c315a5865b484ed88b3.woff",
+    "static/media/kumbhsans-medium.woff": "/newbie-profile-card-component/static/media/kumbhsans-medium.d69e9343ecc6e5086266.woff",
+    "static/media/kumbhsans-bold.woff2": "/newbie-profile-card-component/static/media/kumbhsans-bold.8fc71c9f6315b66b83b6.woff2",
+    "static/media/kumbhsans-medium.woff2": "/newbie-profile-card-component/static/media/kumbhsans-medium.9fac8d35c3163b907b7e.woff2",
+    "static/media/bg-pattern-card.svg": "/newbie-profile-card-component/static/media/bg-pattern-card.b61daebd3cb4b885d10f.svg",
+    "index.html": "/newbie-profile-card-component/index.html",
+    "static/media/bg-pattern-bottom.svg": "/newbie-profile-card-component/static/media/bg-pattern-bottom.a34eb319c02ad49587c3.svg",
+    "static/media/bg-pattern-top.svg": "/newbie-profile-card-component/static/media/bg-pattern-top.dae77b1febf9b29fe34e.svg",
+    "main.303482c2.css.map": "/newbie-profile-card-component/static/css/main.303482c2.css.map",
+    "main.8b7d0580.js.map": "/newbie-profile-card-component/static/js/main.8b7d0580.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.303482c2.css",
+    "static/js/main.8b7d0580.js"
+  ]
+}

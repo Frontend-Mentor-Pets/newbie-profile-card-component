@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/newbie-profile-card-component/static/css/main.303482c2.css",
-    "main.js": "/newbie-profile-card-component/static/js/main.8b7d0580.js",
+    "main.css": "/newbie-profile-card-component/static/css/main.3c8bdc11.css",
+    "main.js": "/newbie-profile-card-component/static/js/main.9f0b7f5c.js",
     "static/media/kumbhsans-bold.ttf": "/newbie-profile-card-component/static/media/kumbhsans-bold.bbd6397b522ed02dc229.ttf",
     "static/media/kumbhsans-medium.ttf": "/newbie-profile-card-component/static/media/kumbhsans-medium.9ddd873179b9f2300033.ttf",
     "static/media/kumbhsans-bold.woff": "/newbie-profile-card-component/static/media/kumbhsans-bold.8c315a5865b484ed88b3.woff",
@@ -12,11 +12,11 @@
     "index.html": "/newbie-profile-card-component/index.html",
     "static/media/bg-pattern-bottom.svg": "/newbie-profile-card-component/static/media/bg-pattern-bottom.a34eb319c02ad49587c3.svg",
     "static/media/bg-pattern-top.svg": "/newbie-profile-card-component/static/media/bg-pattern-top.dae77b1febf9b29fe34e.svg",
-    "main.303482c2.css.map": "/newbie-profile-card-component/static/css/main.303482c2.css.map",
-    "main.8b7d0580.js.map": "/newbie-profile-card-component/static/js/main.8b7d0580.js.map"
+    "main.3c8bdc11.css.map": "/newbie-profile-card-component/static/css/main.3c8bdc11.css.map",
+    "main.9f0b7f5c.js.map": "/newbie-profile-card-component/static/js/main.9f0b7f5c.js.map"
   },
   "entrypoints": [
-    "static/css/main.303482c2.css",
-    "static/js/main.8b7d0580.js"
+    "static/css/main.3c8bdc11.css",
+    "static/js/main.9f0b7f5c.js"
   ]
 }

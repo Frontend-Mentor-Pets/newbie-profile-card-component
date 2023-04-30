@@ -11,6 +11,11 @@
   height: 374px;
   border-radius: 14px;
   overflow: hidden;
+
+  @media (max-width: 375px) {
+    width: 326px;
+    margin-top: 147px;
+  }
 }
 
 .top {
@@ -40,6 +45,10 @@
   top: -48px;
   left: 127px;
   outline: 5px solid $white;
+
+  @media (max-width: 375px) {
+    left: 115px;
+  }
 }
 
 .header {
@@ -83,6 +92,11 @@
   align-items: center;
   gap: 38px;
   padding: 0px 47px;
+
+  @media (max-width: 375px) {
+    gap: 25px;
+    padding: 0px 40px;
+  }
 }
 
 .block {

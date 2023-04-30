@@ -12,5 +12,10 @@ body {
   background-color: $dark-cyan;
   background-image: url(../assets/images/bg-pattern-top.svg), url(../assets/images/bg-pattern-bottom.svg);
   background-repeat: no-repeat, no-repeat;
-  background-position: right calc(50vw - -27px) bottom calc(50vh - 190px), left calc(50vw - 28px) top calc(50vh - -15px);
+  background-position: right calc(50vw + 27px) bottom calc(50vh - 190px), left calc(50vw - 28px) top calc(50vh + 15px);
+
+  @media (max-width: 375px) {
+    background-position: right calc(50vw + -25px) bottom calc(50vh - 10px), left calc(50vw - 23px) top calc(50vh + 0px);
+    background-size: cover;
+  }
 }

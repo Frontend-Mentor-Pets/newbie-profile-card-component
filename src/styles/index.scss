@@ -10,8 +10,7 @@ body {
   font-size: 18px;
   color: $dark-grayish-blue;
   background-color: $dark-cyan;
-  background-image: url(http://localhost:3000/static/media/bg-pattern-top.dae77b1….svg),
-    url(http://localhost:3000/static/media/bg-pattern-bottom.a34eb31….svg);
+  background-image: url(../assets/images/bg-pattern-top.svg), url(../assets/images/bg-pattern-bottom.svg);
   background-repeat: no-repeat, no-repeat;
   background-position: right calc(50vw - -27px) bottom calc(50vh - 190px), left calc(50vw - 28px) top calc(50vh - -15px);
 }
